@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦈 SOC Wireshark Project
+# SOC Wireshark Project
 
 ### Network Forensics Labs | Networkwalks 1-Month Training | Week 1
 
